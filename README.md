@@ -1,2 +1,2 @@
-# MLalgos_scratchpad
-ML algorithms from scratch 
+# Machine Learning Algorithms and when to use them
+
